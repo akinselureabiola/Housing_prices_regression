@@ -1,4 +1,4 @@
-# Housing_prices_regression
+# Housing_prices_regression_EDA
 
 # OVERVIEW
 
